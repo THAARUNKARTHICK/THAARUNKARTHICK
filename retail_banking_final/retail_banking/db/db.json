@@ -1,0 +1,133 @@
+{
+  "user": [
+    {
+      "User_ID": "Naren",
+      "Account_Number": "100001",
+      "Balance": 1944,
+      "email_id": "naren@123.com",
+      "Password": "nn1234",
+      "id": 1
+    },
+    {
+      "User_ID": "Thaarun",
+      "Account_Number": "100002",
+      "Balance": 900,
+      "email_id": "thaarun@123.com",
+      "Password": "tt1234",
+      "id": 2
+    },
+    {
+      "User_ID": "Sudharsan",
+      "Account_Number": "100003",
+      "Balance": "2000",
+      "email_id": "sudha@123.com",
+      "Password": "ss1234",
+      "id": 3
+    },
+    {
+      "User_ID": "Ram",
+      "Account_Number": "100004",
+      "Balance": "2000",
+      "email_id": "ram@123.com",
+      "Password": "rr1234",
+      "id": 4
+    },
+    {
+      "User_ID": "sita",
+      "Account_Number": "100005",
+      "Balance": "2000",
+      "email_id": "sita@123.com",
+      "Password": "si1234",
+      "id": 5
+    },
+    {
+      "User_ID": "Nittin",
+      "Account_Number": "100006",
+      "Balance": "2000",
+      "email_id": "nittin@123.com",
+      "Password": "ni1234",
+      "id": 6
+    },
+    {
+      "User_ID": "Karthi",
+      "Account_Number": "100007",
+      "Balance": "2000",
+      "email_id": "sudha@123.com",
+      "Password": "kk1234",
+      "id": 7
+    },
+    {
+      "User_ID": "Vivek",
+      "Account_Number": "100008",
+      "Balance": "2000",
+      "email_id": "vv@123.com",
+      "Password": "vv234",
+      "id": 8
+    },
+    {
+      "User_ID": "Akhil",
+      "Account_Number": "100009",
+      "Balance": "2000",
+      "email_id": "akhil@123.com",
+      "Password": "aa1234",
+      "id": 9
+    },
+    {
+      "User_ID": "Akhilesh",
+      "Account_Number": "100010",
+      "Balance": "2000",
+      "email_id": "akhil@123.com",
+      "Password": "ak1234",
+      "id": 10
+    },
+    {
+      "User_ID": "Nithin",
+      "Account_Number": "100011",
+      "Balance": "2000",
+      "email_id": "nithin@123.com",
+      "Password": "nn1234",
+      "id": 11
+    },
+    {
+      "User_ID": "Prem",
+      "Account_Number": "100012",
+      "Balance": "2000",
+      "email_id": "prem@123.com",
+      "Password": "pp1234",
+      "id": 12
+    },
+    {
+      "User_ID": "Karthick",
+      "Account_Number": "100013",
+      "Balance": "2000",
+      "email_id": "karthick@123.com",
+      "Password": "kk1234",
+      "id": 13
+    },
+    {
+      "User_ID": "Anand",
+      "Account_Number": "100014",
+      "Balance": "2000",
+      "email_id": "Anand@123.com",
+      "Password": "an1234",
+      "id": 14
+    },
+    {
+      "User_ID": "Inba",
+      "Account_Number": "100015",
+      "Balance": "2000",
+      "email_id": "inba@123.com",
+      "Password": "ii1234",
+      "id": 15
+    }
+  ],
+  "transaction": [
+    {
+      "from": 1,
+      "account_number": "100002",
+      "amount": 100,
+      "timestamp": "2022-06-04T01:57:21.866Z",
+      "id": 1
+    }
+  ]
+}
